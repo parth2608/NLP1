@@ -1,2 +1,2 @@
-# NLP
-This repository contains the Sentiment Analysis on movie reviews using Naive Bayes.
+# NLP1
+This repository contains the Natural Language Processing project: Sentiment Analysis on movie reviews using Naive Bayes.
